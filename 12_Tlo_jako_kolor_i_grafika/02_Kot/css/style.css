@@ -1,0 +1,11 @@
+.cat{
+    width: 600px;
+    height: 400px;
+    background: url(../images/cat.jpeg);
+    background-size: cover;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
